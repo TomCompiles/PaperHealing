@@ -17,9 +17,9 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Paperheal extends JavaPlugin implements Listener {
 	boolean blockNextHeal = false;
 	
-    public void onDisable() {
+  /*  public void onDisable() {
         // TODO: Place any custom disable code here.
-    }
+    } */
 
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
