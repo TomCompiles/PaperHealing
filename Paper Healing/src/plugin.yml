@@ -1,0 +1,8 @@
+author: lightning101
+database: false
+description: Allows you to heal your self and others with paper!
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.lightning101.plugins.paperheal.Paperheal
+name: PaperHeal
+startup: postworld
+version: '1.0'
